@@ -1,0 +1,13 @@
+{
+  "name": "newsletter-with-scheduled-sends",
+  "version": "0.1.0",
+  "type": "fullstack",
+  "backend": {
+    "port": 8000,
+    "framework": "django"
+  },
+  "frontend": {
+    "port": 5173,
+    "framework": "react"
+  }
+}
